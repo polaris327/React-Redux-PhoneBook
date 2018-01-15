@@ -1,0 +1,10 @@
+.editable-data {
+  text-align: left;
+}
+
+.editable-data .non-editable-field {
+  display: block;
+}
+.editable-data .button-container {
+  margin: 20px 0;
+}

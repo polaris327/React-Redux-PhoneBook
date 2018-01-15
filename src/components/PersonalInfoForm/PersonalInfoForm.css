@@ -1,0 +1,25 @@
+form {
+  text-align: right;
+  margin-bottom: 50px;
+}
+
+form > h2 {
+  width: 400px;
+}
+
+.field-container {
+  width: 400px;
+  height: 40px;
+  display: block;
+}
+
+.field-container span {
+  /* width: 100px; */
+  margin-right: 30px;
+  display: inline-block;
+}
+
+.field-container input, button {
+  width: 150px;
+  height: 25px;
+}
